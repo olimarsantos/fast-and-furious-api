@@ -61,3 +61,6 @@ java -jar target/fast-and-furious-api-1.0.jar
 
 ### Swagger
 The API documentation can be accessed by Swagger, at the link `http://localhost:8080/swagger-ui.html`.
+
+### Postman Collection
+I created a Postman collection to make this easier and do some testing, at the link: `https://www.postman.com/collections/fd3f3170f6d786e88b40`
