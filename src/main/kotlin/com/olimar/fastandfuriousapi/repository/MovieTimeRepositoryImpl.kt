@@ -1,0 +1,3 @@
+package com.olimar.fastandfuriousapi.repository
+
+abstract class MovieTimeRepositoryImpl : MovieTimeRepository
